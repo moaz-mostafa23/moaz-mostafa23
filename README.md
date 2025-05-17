@@ -46,6 +46,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/moaz-mostafa23/moaz-mostafa23/output/snake.svg" alt="Snake animation" />
-
 ###
